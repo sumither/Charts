@@ -1,3 +1,5 @@
 Install node.
+
 goto current path.
-run > node app
+
+node app
