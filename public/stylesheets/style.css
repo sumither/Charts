@@ -8,9 +8,13 @@ h3{
 }
 
 .chartContainer{
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
+	width: 50%;
+	float: left;
+}
+
+.chartInputs, .chartOutputs{
+	width: 25%;
+	float: left;
 }
 
 .th-inner {
@@ -50,4 +54,8 @@ h3{
 
 .th-Amount{
 	width: 7%;
+}
+
+.label-content{
+	text-align: left !important;
 }
